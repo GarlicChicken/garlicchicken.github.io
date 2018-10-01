@@ -4,7 +4,7 @@
             <p>
                 My name is SeongHan Jo.<br/>
                 I am doing web development & product design(web/mobile).<br/>
-                The long-term goal is to become an IT professional.
+                My long-term goal is to become an IT expert.
             </p>
             <a href="mailto:lolsh0793@naver.com"><i class="fas fa-envelope"></i> lolsh0793@naver.com</a>
             <div class="subject">what can i do</div>
