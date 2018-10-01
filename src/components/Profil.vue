@@ -3,7 +3,8 @@
         <div id="Introduction">
             <p>
                 My name is SeongHan Jo.<br/>
-                I am front-end web developer.
+                I am doing web development & product design(web/mobile).<br/>
+                The long-term goal is to become an IT professional.
             </p>
             <a href="mailto:lolsh0793@naver.com"><i class="fas fa-envelope"></i> lolsh0793@naver.com</a>
             <div class="subject">what can i do</div>

@@ -34,7 +34,7 @@
 
 <style>
   body{
-    background-color: rgb(97, 97, 97);
+    background-color: rgb(138, 138, 138);
     color: rgb(255, 255, 255);
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 1.1rem;
