@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <video autoplay loop>
-          <source :src="require('./assets/background.mp4')" type="video/mp4">
     </video>
     <Header></Header>
     <Profil></Profil>
@@ -35,6 +34,8 @@
 <style>
   body{
     background-image: url('./assets/background.jpg');
+    background-color: black;
+    background-size: cover;
     color: rgb(255, 255, 255);
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 1.1rem;
